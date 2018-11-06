@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearentChallenge", "ClearentChallenge\ClearentChallenge.csproj", "{32F54B41-467C-4537-8867-462DF442F49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearentChallengeUnitTesting", "ClassLibrary3\ClearentChallengeUnitTesting.csproj", "{A6576ED1-6632-4A63-868E-C69C5F24D8C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearentChallengeUnitTesting", "ClearentChallengeUnitTest\ClearentChallengeUnitTesting.csproj", "{A6576ED1-6632-4A63-868E-C69C5F24D8C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
